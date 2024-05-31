@@ -89,10 +89,6 @@ quiz-game/
 └── README.md             # This README file
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspiration and guidance for this project were taken from various Python programming tutorials and resources.
